@@ -10,7 +10,7 @@ In this repo, we conclude some speaker diarization dataset resource links, espec
 |  DIHARD 2 |  46 | 2-14  | 44.4  |  Multi |  [Data](https://catalog.ldc.upenn.edu/LDC2022S06) |  [Label](https://catalog.ldc.upenn.edu/LDC2022S06) | $300  |
 | VoxConverse  |  64 |  1-21 |  3.28 |  Multi |  [Data](https://github.com/joonson/voxconverse) |  [Label](https://github.com/joonson/voxconverse) |  Free |
 | CSSD  |  180 |  2 |  0 | Chinese  | [Data](https://magichub.com/datasets/magicdata-ramc/)  |  [Label](https://github.com/MagicHub-io/MagicData-RAMC) | Free  |
-| Simu-2spk  |  2434 |  2 |  34.14 | Chinese  | ...  |  [Label](https://github.com/hitachi-speech/EEND) | $33,000  |
+| Simu-2spk  |  2434 |  2 |  34.14 | Multi  | ...  |  [Label](https://github.com/hitachi-speech/EEND) | $33,000  |
 
 **Notes**:
 * ``CallHome`` datasets have plenty of versions. Academia often calls ``LDC2001S97`` as CallHome for short.
