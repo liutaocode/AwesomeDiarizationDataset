@@ -15,7 +15,7 @@ In this repo, we conclude some speaker diarization dataset resource links, espec
 **Notes**:
 * ``CallHome`` datasets have plenty of versions. Academia often calls ``LDC2001S97`` as CallHome for short.
 * ``VoxConverse`` does not release its visual part, so we temporarily consider ``VoxConverse`` an audio-only dataset.
-* We can not find ``Dihard3`` on the LDC website, so we do not analyze it here.
+* We can not find ``DIHARD3`` on the LDC website, so we do not analyze it here.
 * ``Simu-2spk`` is a simulated telephone speech diarization dataset from Switchboard and SRE datasets, often trained in EEND. 
    Simulated data is expensive ($33,000) and consist of the following datasets.
 > LDC98S75,LDC99S79,LDC2002S06,LDC2001S13,LDC2004S07,LDC2006S44,LDC2011S01,LDC2011S04,LDC2011S09,LDC2011S10,LDC2012S01,LDC2011S05, and LDC2011S08.
