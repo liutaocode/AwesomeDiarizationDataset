@@ -27,7 +27,7 @@ In this repo, we conclude some speaker diarization dataset resource links, espec
 | AMI  |  100 | 3-5  | 13.37  |  English |  [Data](https://groups.inf.ed.ac.uk/ami/corpus/) |  [Label](https://github.com/BUTSpeechFIT/AMI-diarization-setup) |  Free |
 |  AVA-AVD |  29 | 2-24  |  4.4 |  Multi | [Data](https://github.com/cvdfoundation/ava-dataset) | [Label](https://github.com/zcxu-eric/AVA-AVD)   |   Free|
 |  MSDWild | 80  | 2-10  |  14.01 |  Multi | [Data](https://github.com/X-LANCE/MSDWILD)  | [Label](https://github.com/X-LANCE/MSDWILD)   | Free  |
-|  MISP2022 |  127 |  2-6 |  25.7 | Chinese  | [Data](https://mispchallenge.github.io/mispchallenge2022)  |  [Label]([https://mispchallenge.github.io/mispchallenge2022](https://github.com/mispchallenge/misp2022_baseline/tree/main/track1_AVSD/scp_dir)) | Free  |
+|  MISP2022 |  127 |  2-6 |  25.7 | Chinese  | [Data](https://mispchallenge.github.io/mispchallenge2022)  |  [Label](https://mispchallenge.github.io/mispchallenge2022](https://github.com/mispchallenge/misp2022_baseline/tree/main/track1_AVSD/scp_dir) | Free  |
 
 **Notes**:
 * MISP2022 are currently calculated on train set.
