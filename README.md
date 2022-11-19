@@ -6,7 +6,7 @@ In this repo, we conclude some speaker diarization dataset resource links, espec
 
 |  Dataset |Hours|Speakers| Overlap(%)  | Languages  |  Data |  Label  | Fees  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  CallHome \(LDC2001S97) |  17 | 2-6  |  16.52 |  English | [Data](https://catalog.ldc.upenn.edu/LDC2001S97)  |  [Label](https://github.com/BUTSpeechFIT/VBx/tree/master/data/CALLHOME/lists) | $500  |
+|  CallHome \(LDC2001S97) |  17 | 2-6  |  16.52 |  English | [Data](https://catalog.ldc.upenn.edu/LDC2001S97)  |  [Splits](https://github.com/BUTSpeechFIT/VBx/tree/master/data/CALLHOME/lists) [Label](https://github.com/BUTSpeechFIT/VBx/tree/master/data/CALLHOME/rttms/all) | $500  |
 |  DIHARD 2 |  46 | 2-14  | 44.4  |  Multi |  [Data](https://catalog.ldc.upenn.edu/LDC2022S06) |  [Label](https://catalog.ldc.upenn.edu/LDC2022S06) | $300  |
 | VoxConverse  |  64 |  1-21 |  3.28 |  Multi |  [Data](https://github.com/joonson/voxconverse) |  [Label](https://github.com/joonson/voxconverse) |  Free |
 | CSSD  |  180 |  2 |  0 | Chinese  | [Data](https://magichub.com/datasets/magicdata-ramc/)  |  [Label](https://github.com/MagicHub-io/MagicData-RAMC) | Free  |
