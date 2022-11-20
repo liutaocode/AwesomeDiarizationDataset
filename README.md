@@ -33,5 +33,6 @@ In this repo, we conclude some speaker diarization dataset resource links, espec
 * MISP2022 are currently calculated on train set.
 * Other datasets are calculated on all available sets, e,g. train, dev and test.
 
+``Update:`` You can visualize those datasets via [URL](https://github.com/liutaocode/DiarizationVisualization).
 
-Feel free to add your resources.
+If you find other usefull datasets, feel free to propose a `PR`.
