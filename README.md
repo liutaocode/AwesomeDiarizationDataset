@@ -14,6 +14,7 @@ In this repo, we conclude some speaker diarization dataset resource links, espec
 
 **Notes**:
 * ``CallHome`` datasets have plenty of versions. Academia often calls ``LDC2001S97`` as CallHome for short.
+* ``CallHome`` part1 and part2 are not officially spliting and the spliting can be found on [URL](https://github.com/BUTSpeechFIT/VBx/tree/master/data/CALLHOME/lists).
 * ``VoxConverse`` does not release its visual part, so we temporarily consider ``VoxConverse`` an audio-only dataset.
 * We can not find ``DIHARD3`` on the LDC website, so we do not analyze it here.
 * ``Simu-2spk`` is a simulated telephone speech diarization dataset from Switchboard and SRE datasets, often trained in EEND. 
