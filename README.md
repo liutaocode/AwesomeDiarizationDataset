@@ -37,3 +37,5 @@ In this repo, we conclude some speaker diarization dataset resource links, espec
 ``Update:`` You can visualize those datasets via [URL](https://github.com/liutaocode/DiarizationVisualization).
 
 If you find other usefull datasets, feel free to propose a `PR`.
+
+Other multi-modal datasets on speeches can be found on [URL](https://github.com/liutaocode/Multi-modal-Speech-Dataset).
