@@ -6,12 +6,13 @@ In this repo, we conclude some speaker diarization dataset resource links, espec
 
 |  Dataset |Hours|Speakers| Overlap(%)  | Languages  |  Data |  Label  | Fees  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  CallHome \(LDC2001S97) |  17 | 2-6  |  16.52 |  English | [Data](https://catalog.ldc.upenn.edu/LDC2001S97)  |  [Splits](https://github.com/BUTSpeechFIT/VBx/tree/master/data/CALLHOME/lists) [Label](https://github.com/BUTSpeechFIT/VBx/tree/master/data/CALLHOME/rttms/all) | $500  |
+|  CallHome \(LDC2001S97) |  17 | 2-6  |  16.52 |  English | [Data](https://catalog.ldc.upenn.edu/LDC2001S97)  |  [Splits](https://github.com/BUTSpeechFIT/VBx/tree/master/data/CALLHOME/lists) [Label](http://www.openslr.org/resources/10/sre2000-key.tar.gz) | $500  |
 |  DIHARD 2 |  46 | 2-14  | 44.4  |  Multi |  [Data](https://catalog.ldc.upenn.edu/LDC2022S06) |  [Label](https://catalog.ldc.upenn.edu/LDC2022S06) | $300  |
 | CSSD  |  180 |  2 |  0 | Chinese  | [Data](https://magichub.com/datasets/magicdata-ramc/)  |  [Label](https://github.com/MagicHub-io/MagicData-RAMC) | Free  |
 | Simu-2spk  |  2434 |  2 |  34.14 | Multi  | ...  |  [Label](https://github.com/hitachi-speech/EEND) | $33,000  |
 
 **Notes**:
+* ``CallHome`` label (``fullref.rttm``) can be found on [URL](https://github.com/kaldi-asr/kaldi/blob/cbed4ff688a172a7f765493d24771c1bd57dcd20/egs/callhome_diarization/v1/local/make_callhome.sh) by downloading [Label](http://www.openslr.org/resources/10/sre2000-key.tar.gz).
 * ``CallHome`` datasets have plenty of versions. Academia often calls ``LDC2001S97`` as CallHome for short.
 * ``CallHome`` part1 and part2 are not officially spliting and the spliting can be found on [URL](https://github.com/BUTSpeechFIT/VBx/tree/master/data/CALLHOME/lists).
 * We can not find ``DIHARD3`` on the LDC website, so we do not analyze it here.
