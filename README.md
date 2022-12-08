@@ -6,7 +6,7 @@ In this repo, we conclude some speaker diarization dataset resource links, espec
 
 |  Dataset |Hours|Speakers| Overlap(%)  | Languages  |  Data |  Label  | Fees  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  CallHome \(LDC2001S97) |  17 | 2-6  |  16.52 |  English | [Data](https://catalog.ldc.upenn.edu/LDC2001S97)  |  [Splits](https://github.com/BUTSpeechFIT/VBx/tree/master/data/CALLHOME/lists) [Label](http://www.openslr.org/resources/10/sre2000-key.tar.gz) | $500  |
+|  CallHome \(LDC2001S97) |  17 | 2-7  |  16.52 |  English | [Data](https://catalog.ldc.upenn.edu/LDC2001S97)  |  [Splits](https://github.com/BUTSpeechFIT/VBx/tree/master/data/CALLHOME/lists) [Label](http://www.openslr.org/resources/10/sre2000-key.tar.gz) | $500  |
 |  DIHARD 2 |  46 | 2-14  | 44.4  |  Multi |  [Data](https://catalog.ldc.upenn.edu/LDC2022S06) |  [Label](https://catalog.ldc.upenn.edu/LDC2022S06) | $300  |
 | CSSD  |  180 |  2 |  0 | Chinese  | [Data](https://magichub.com/datasets/magicdata-ramc/)  |  [Label](https://github.com/MagicHub-io/MagicData-RAMC) | Free  |
 | Simu-2spk  |  2434 |  2 |  34.14 | Multi  | ...  |  [Label](https://github.com/hitachi-speech/EEND) | $33,000  |
