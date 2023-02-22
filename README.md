@@ -32,8 +32,7 @@ In this repo, we conclude some speaker diarization dataset resource links, espec
 
 **Notes**:
 * ``VoxConverse`` has not released its visual part yet.
-* MISP are currently calculated on train set.
-* Other datasets are calculated on all available sets, e,g. train, dev and test.
+* All datasets are calculated on all available sets, e,g. train, dev and test.
 
 ``Update:`` You can visualize those datasets via [URL](https://github.com/liutaocode/DiarizationVisualization).
 
